@@ -1,7 +1,7 @@
 # VGG16-with-TensorflowJs
-i have used a tensorflowJs with pretrained model VGG16 and Mobilenet 
+   i have used a tensorflowJs with pretrained model VGG16 and Mobilenet 
 ## How to use it efficiently
-  In this repo. i haven't added vgg16 but we can download it by using following two to three lines of command.
+   In this repo. i haven't added vgg16 but we can download it by using following two to three lines of command.
  - 1. import keras 
  - 2. import tensorflowjs as TFJS
  - // for downloading the vgg16 model u have to add following command
