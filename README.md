@@ -8,5 +8,5 @@ i have used a tensorflowJs with pretrained model VGG16 and Mobilenet
  - 3. vgg16 = keras.applications.vgg16.VGG16()
  - 4. TFJS.converters.save_keras_model(vgg16, path to views or client folder in your app)
  - // this will load your model into the particular directory and create a shards of files...and now u can refer other files to run into your    machine
-  
+  - u can also refer https://js.tensorflow.org/tutorials/import-keras.html
 
